@@ -1,2 +1,8 @@
-bin/
-gen/
+.gradle
+/local.properties
+.idea/
+*.iml
+gradle/
+.DS_Store
+/build
+/captures
